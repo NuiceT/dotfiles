@@ -1,2 +1,5 @@
 # Ignore everything
 */
+
+# Don't ignore following folders
+!git/
